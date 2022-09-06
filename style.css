@@ -1,0 +1,19 @@
+body{
+    /* min-height: 3000px; */
+    color: black;
+    
+}
+.jumbotron {
+    padding-top: 2rem ;
+    background-color:#e2edff;
+}
+#projects{
+    background-color:#e2edff;
+}
+}
+#yahoo {
+    background-color: aquamarine;
+}
+#gallery{
+    background-color:#e2edff;
+}
